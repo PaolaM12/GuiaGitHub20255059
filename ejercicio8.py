@@ -1,4 +1,4 @@
-print('Conflicto final')
+print('Conflicto resuelto')
 
 
 
